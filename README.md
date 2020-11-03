@@ -1,0 +1,1 @@
+# QRKod_Okuyucu_G-venlik_Sistemi
